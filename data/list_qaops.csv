@@ -1,0 +1,331 @@
+﻿qAOP Model,Year,Key Feature,Value,Group,DOI
+Muller et al (2015),2015,Nanoparticles,1,Stressor,https://doi.org/10.1021/acs.est.5b01837
+Muller et al (2015),2015,Linear AOP,1,AOP Type,https://doi.org/10.1021/acs.est.5b01837
+Muller et al (2015),2015,Zebrafish,1,Species,https://doi.org/10.1021/acs.est.5b01837
+Muller et al (2015),2015,High-content imaging,1,Assays,https://doi.org/10.1021/acs.est.5b01837
+Muller et al (2015),2015,In silico,1,Input Data,https://doi.org/10.1021/acs.est.5b01837
+Muller et al (2015),2015,In vivo,1,Input Data,https://doi.org/10.1021/acs.est.5b01837
+Muller et al (2015),2015,Kinetics,1,Input Data,https://doi.org/10.1021/acs.est.5b01837
+Muller et al (2015),2015,Kinetic Equations,1,Modelling Approach,https://doi.org/10.1021/acs.est.5b01837
+Muller et al (2015),2015,Concentration-Response,1,Output Information,https://doi.org/10.1021/acs.est.5b01837
+Muller et al (2015),2015,Time-Response,1,Output Information,https://doi.org/10.1021/acs.est.5b01837
+Muller et al (2015),2015,Mechanism of Action,1,Application,https://doi.org/10.1021/acs.est.5b01837
+Muller et al (2015),2015,No access,1,Accessibility,https://doi.org/10.1021/acs.est.5b01837
+Margiotta-Casaluci et al (2016),2016,Chemical(s),1,Stressor,https://doi.org/10.1038/srep21978
+Margiotta-Casaluci et al (2016),2016,AOP Network,1,AOP Type,https://doi.org/10.1038/srep21978
+Margiotta-Casaluci et al (2016),2016,Fish,1,Species,https://doi.org/10.1038/srep21978
+Margiotta-Casaluci et al (2016),2016,Gene expression,1,Assays,https://doi.org/10.1038/srep21978
+Margiotta-Casaluci et al (2016),2016,Functional assay,1,Assays,https://doi.org/10.1038/srep21978
+Margiotta-Casaluci et al (2016),2016,LC-MS/MS,1,Assays,https://doi.org/10.1038/srep21978
+Margiotta-Casaluci et al (2016),2016,In silico,1,Input Data,https://doi.org/10.1038/srep21978
+Margiotta-Casaluci et al (2016),2016,In vitro,1,Input Data,https://doi.org/10.1038/srep21978
+Margiotta-Casaluci et al (2016),2016,In vivo,1,Input Data,https://doi.org/10.1038/srep21978
+Margiotta-Casaluci et al (2016),2016,Kinetics,1,Input Data,https://doi.org/10.1038/srep21978
+Margiotta-Casaluci et al (2016),2016,Metabolism,1,Input Data,https://doi.org/10.1038/srep21978
+Margiotta-Casaluci et al (2016),2016,Kinetic Equations,1,Modelling Approach,https://doi.org/10.1038/srep21978
+Margiotta-Casaluci et al (2016),2016,Concentration-Response,1,Output Information,https://doi.org/10.1038/srep21978
+Margiotta-Casaluci et al (2016),2016,Time-Response,1,Output Information,https://doi.org/10.1038/srep21978
+Margiotta-Casaluci et al (2016),2016,Response-Response,1,Output Information,https://doi.org/10.1038/srep21978
+Margiotta-Casaluci et al (2016),2016,Mechanism of Action,1,Application,https://doi.org/10.1038/srep21978
+Margiotta-Casaluci et al (2016),2016,Open-access,1,Accessibility,https://doi.org/10.1038/srep21978
+Conolly et al (2017),2017,Chemical(s),1,Stressor,https://doi.org/10.1021/acs.est.6b06230
+Conolly et al (2017),2017,Linear AOP,1,AOP Type,https://doi.org/10.1021/acs.est.6b06230
+Conolly et al (2017),2017,Fish,1,Species,https://doi.org/10.1021/acs.est.6b06230
+Conolly et al (2017),2017,Functional assay,1,Assays,https://doi.org/10.1021/acs.est.6b06230
+Conolly et al (2017),2017,In vitro,1,Input Data,https://doi.org/10.1021/acs.est.6b06230
+Conolly et al (2017),2017,Kinetics,1,Input Data,https://doi.org/10.1021/acs.est.6b06230
+Conolly et al (2017),2017,Kinetic Equations,1,Modelling Approach,https://doi.org/10.1021/acs.est.6b06230
+Conolly et al (2017),2017,Concentration-Response,1,Output Information,https://doi.org/10.1021/acs.est.6b06230
+Conolly et al (2017),2017,Time-Response,1,Output Information,https://doi.org/10.1021/acs.est.6b06230
+Conolly et al (2017),2017,Response-Response,1,Output Information,https://doi.org/10.1021/acs.est.6b06230
+Conolly et al (2017),2017,Point of Departure,1,Application,https://doi.org/10.1021/acs.est.6b06230
+Conolly et al (2017),2017,No access,1,Accessibility,https://doi.org/10.1021/acs.est.6b06230
+Hassan et al (2017),2017,Chemical(s),1,Stressor,https://doi.org/10.1093/toxsci/kfx163
+Hassan et al (2017),2017,Linear AOP,1,AOP Type,https://doi.org/10.1093/toxsci/kfx163
+Hassan et al (2017),2017,Rat,1,Species,https://doi.org/10.1093/toxsci/kfx163
+Hassan et al (2017),2017,LC-MS/MS,1,Assays,https://doi.org/10.1093/toxsci/kfx163
+Hassan et al (2017),2017,In vitro,1,Input Data,https://doi.org/10.1093/toxsci/kfx163
+Hassan et al (2017),2017,In vivo,1,Input Data,https://doi.org/10.1093/toxsci/kfx163
+Hassan et al (2017),2017,Kinetic Equations,1,Modelling Approach,https://doi.org/10.1093/toxsci/kfx163
+Hassan et al (2017),2017,Concentration-Response,1,Output Information,https://doi.org/10.1093/toxsci/kfx163
+Hassan et al (2017),2017,Time-Response,1,Output Information,https://doi.org/10.1093/toxsci/kfx163
+Hassan et al (2017),2017,Response-Response,1,Output Information,https://doi.org/10.1093/toxsci/kfx163
+Hassan et al (2017),2017,Risk Prediction,1,Application,https://doi.org/10.1093/toxsci/kfx163
+Hassan et al (2017),2017,Open-access,1,Accessibility,https://doi.org/10.1093/toxsci/kfx163
+Hassan et al (2017),2017,Raw data,1,Accessibility,https://doi.org/10.1093/toxsci/kfx163
+Chu (2018),2018,Mixture,1,Stressor,https://cedar.wwu.edu/wwuet/699
+Chu (2018),2018,AOP Network,1,AOP Type,https://cedar.wwu.edu/wwuet/699
+Chu (2018),2018,Fish,1,Species,https://cedar.wwu.edu/wwuet/699
+Chu (2018),2018,Functional assay,1,Assays,https://cedar.wwu.edu/wwuet/699
+Chu (2018),2018,In vivo,1,Input Data,https://cedar.wwu.edu/wwuet/699
+Chu (2018),2018,Bayesian Networks,1,Modelling Approach,https://cedar.wwu.edu/wwuet/699
+Chu (2018),2018,Concentration-Response,1,Output Information,https://cedar.wwu.edu/wwuet/699
+Chu (2018),2018,Time-Response,1,Output Information,https://cedar.wwu.edu/wwuet/699
+Chu (2018),2018,Risk Prediction,1,Application,https://cedar.wwu.edu/wwuet/699
+Chu (2018),2018,Open-access,1,Accessibility,https://cedar.wwu.edu/wwuet/699
+Chu (2018),2018,Raw data,1,Accessibility,https://cedar.wwu.edu/wwuet/699
+Chu (2018),2018,With code,1,Accessibility,https://cedar.wwu.edu/wwuet/699
+Doering et al (2018),2018,Mixture,1,Stressor,https://doi.org/10.1021/acs.est.8b01438
+Doering et al (2018),2018,Linear AOP,1,AOP Type,https://doi.org/10.1021/acs.est.8b01438
+Doering et al (2018),2018,Fish,1,Species,https://doi.org/10.1021/acs.est.8b01438
+Doering et al (2018),2018,Bird,1,Species,https://doi.org/10.1021/acs.est.8b01438
+Doering et al (2018),2018,Gene expression,1,Assays,https://doi.org/10.1021/acs.est.8b01438
+Doering et al (2018),2018,Functional assay,1,Assays,https://doi.org/10.1021/acs.est.8b01438
+Doering et al (2018),2018,In vitro,1,Input Data,https://doi.org/10.1021/acs.est.8b01438
+Doering et al (2018),2018,Linear Regressions,1,Modelling Approach,https://doi.org/10.1021/acs.est.8b01438
+Doering et al (2018),2018,Concentration-Response,1,Output Information,https://doi.org/10.1021/acs.est.8b01438
+Doering et al (2018),2018,Response-Response,1,Output Information,https://doi.org/10.1021/acs.est.8b01438
+Doering et al (2018),2018,Mechanism of Action,1,Application,https://doi.org/10.1021/acs.est.8b01438
+Doering et al (2018),2018,Raw data,1,Accessibility,https://doi.org/10.1021/acs.est.8b01438
+Jeong et al (2018),2018,Nanoparticles,1,Stressor,https://doi.org/10.1080/17435390.2018.1529835
+Jeong et al (2018),2018,AOP Network,1,AOP Type,https://doi.org/10.1080/17435390.2018.1529835
+Jeong et al (2018),2018,Worm,1,Species,https://doi.org/10.1080/17435390.2018.1529835
+Jeong et al (2018),2018,Gene expression,1,Assays,https://doi.org/10.1080/17435390.2018.1529835
+Jeong et al (2018),2018,Functional assay,1,Assays,https://doi.org/10.1080/17435390.2018.1529835
+Jeong et al (2018),2018,In silico,1,Input Data,https://doi.org/10.1080/17435390.2018.1529835
+Jeong et al (2018),2018,In vivo,1,Input Data,https://doi.org/10.1080/17435390.2018.1529835
+Jeong et al (2018),2018,Kinetics,1,Input Data,https://doi.org/10.1080/17435390.2018.1529835
+Jeong et al (2018),2018,Bayesian Networks,1,Modelling Approach,https://doi.org/10.1080/17435390.2018.1529835
+Jeong et al (2018),2018,Concentration-Response,1,Output Information,https://doi.org/10.1080/17435390.2018.1529835
+Jeong et al (2018),2018,Time-Response,1,Output Information,https://doi.org/10.1080/17435390.2018.1529835
+Jeong et al (2018),2018,Response-Response,1,Output Information,https://doi.org/10.1080/17435390.2018.1529835
+Jeong et al (2018),2018,Mechanism of Action,1,Application,https://doi.org/10.1080/17435390.2018.1529835
+Jeong et al (2018),2018,No access,1,Accessibility,https://doi.org/10.1080/17435390.2018.1529835
+Battistoni et al (2019),2019,Mixture,1,Stressor,https://doi.org/10.1016/j.comtox.2019.03.004
+Battistoni et al (2019),2019,Linear AOP,1,AOP Type,https://doi.org/10.1016/j.comtox.2019.03.004
+Battistoni et al (2019),2019,Rat,1,Species,https://doi.org/10.1016/j.comtox.2019.03.004
+Battistoni et al (2019),2019,High-content imaging,1,Assays,https://doi.org/10.1016/j.comtox.2019.03.004
+Battistoni et al (2019),2019,In silico,1,Input Data,https://doi.org/10.1016/j.comtox.2019.03.004
+Battistoni et al (2019),2019,In vitro,1,Input Data,https://doi.org/10.1016/j.comtox.2019.03.004
+Battistoni et al (2019),2019,In vivo,1,Input Data,https://doi.org/10.1016/j.comtox.2019.03.004
+Battistoni et al (2019),2019,Kinetics,1,Input Data,https://doi.org/10.1016/j.comtox.2019.03.004
+Battistoni et al (2019),2019,Metabolism,1,Input Data,https://doi.org/10.1016/j.comtox.2019.03.004
+Battistoni et al (2019),2019,SysBio,1,Modelling Approach,https://doi.org/10.1016/j.comtox.2019.03.004
+Battistoni et al (2019),2019,Stochastic Modelling,1,Modelling Approach,https://doi.org/10.1016/j.comtox.2019.03.004
+Battistoni et al (2019),2019,Concentration-Response,1,Output Information,https://doi.org/10.1016/j.comtox.2019.03.004
+Battistoni et al (2019),2019,Response-Response,1,Output Information,https://doi.org/10.1016/j.comtox.2019.03.004
+Battistoni et al (2019),2019,Mechanism of Action,1,Application,https://doi.org/10.1016/j.comtox.2019.03.004
+Battistoni et al (2019),2019,No access,1,Accessibility,https://doi.org/10.1016/j.comtox.2019.03.004
+Doering et al (2019),2019,Chemical(s),1,Stressor,https://doi.org/10.1021/acs.est.9b02606
+Doering et al (2019),2019,Linear AOP,1,AOP Type,https://doi.org/10.1021/acs.est.9b02606
+Doering et al (2019),2019,Zebrafish,1,Species,https://doi.org/10.1021/acs.est.9b02606
+Doering et al (2019),2019,Fish,1,Species,https://doi.org/10.1021/acs.est.9b02606
+Doering et al (2019),2019,Functional assay,1,Assays,https://doi.org/10.1021/acs.est.9b02606
+Doering et al (2019),2019,LC-MS/MS,1,Assays,https://doi.org/10.1021/acs.est.9b02606
+Doering et al (2019),2019,In vitro,1,Input Data,https://doi.org/10.1021/acs.est.9b02606
+Doering et al (2019),2019,Kinetic Equations,1,Modelling Approach,https://doi.org/10.1021/acs.est.9b02606
+Doering et al (2019),2019,Concentration-Response,1,Output Information,https://doi.org/10.1021/acs.est.9b02606
+Doering et al (2019),2019,Time-Response,1,Output Information,https://doi.org/10.1021/acs.est.9b02606
+Doering et al (2019),2019,Response-Response,1,Output Information,https://doi.org/10.1021/acs.est.9b02606
+Doering et al (2019),2019,Point of Departure,1,Application,https://doi.org/10.1021/acs.est.9b02606
+Doering et al (2019),2019,No access,1,Accessibility,https://doi.org/10.1021/acs.est.9b02606
+Foran et al (2019 I),2019,Chemical(s),1,Stressor,https://doi.org/10.14573/altex.1810181
+Foran et al (2019 I),2019,Linear AOP,1,AOP Type,https://doi.org/10.14573/altex.1810181
+Foran et al (2019 I),2019,Fish,1,Species,https://doi.org/10.14573/altex.1810181
+Foran et al (2019 I),2019,Functional assay,1,Assays,https://doi.org/10.14573/altex.1810181
+Foran et al (2019 I),2019,In vitro,1,Input Data,https://doi.org/10.14573/altex.1810181
+Foran et al (2019 I),2019,In vivo,1,Input Data,https://doi.org/10.14573/altex.1810181
+Foran et al (2019 I),2019,Linear Regressions,1,Modelling Approach,https://doi.org/10.14573/altex.1810181
+Foran et al (2019 I),2019,Concentration-Response,1,Output Information,https://doi.org/10.14573/altex.1810181
+Foran et al (2019 I),2019,Response-Response,1,Output Information,https://doi.org/10.14573/altex.1810181
+Foran et al (2019 I),2019,Mechanism of Action,1,Application,https://doi.org/10.14573/altex.1810181
+Foran et al (2019 I),2019,Open-access,1,Accessibility,https://doi.org/10.14573/altex.1810181
+Foran et al (2019 I),2019,Raw data,1,Accessibility,https://doi.org/10.14573/altex.1810181
+Foran et al (2019 II),2019,Chemical(s),1,Stressor,https://doi.org/10.14573/altex.1810181
+Foran et al (2019 II),2019,Linear AOP,1,AOP Type,https://doi.org/10.14573/altex.1810181
+Foran et al (2019 II),2019,Rat,1,Species,https://doi.org/10.14573/altex.1810181
+Foran et al (2019 II),2019,Functional assay,1,Assays,https://doi.org/10.14573/altex.1810181
+Foran et al (2019 II),2019,In vitro,1,Input Data,https://doi.org/10.14573/altex.1810181
+Foran et al (2019 II),2019,In vivo,1,Input Data,https://doi.org/10.14573/altex.1810181
+Foran et al (2019 II),2019,Linear Regressions,1,Modelling Approach,https://doi.org/10.14573/altex.1810181
+Foran et al (2019 II),2019,Concentration-Response,1,Output Information,https://doi.org/10.14573/altex.1810181
+Foran et al (2019 II),2019,Response-Response,1,Output Information,https://doi.org/10.14573/altex.1810181
+Foran et al (2019 II),2019,Mechanism of Action,1,Application,https://doi.org/10.14573/altex.1810181
+Foran et al (2019 II),2019,Open-access,1,Accessibility,https://doi.org/10.14573/altex.1810181
+Foran et al (2019 II),2019,Raw data,1,Accessibility,https://doi.org/10.14573/altex.1810181
+Rowland et al (2019),2019,Chemical(s),1,Stressor,https://doi.org/10.1371/journal.pone.0226687
+Rowland et al (2019),2019,AOP Network,1,AOP Type,https://doi.org/10.1371/journal.pone.0226687
+Rowland et al (2019),2019,Fish,1,Species,https://doi.org/10.1371/journal.pone.0226687
+Rowland et al (2019),2019,Functional assay,1,Assays,https://doi.org/10.1371/journal.pone.0226687
+Rowland et al (2019),2019,In vitro,1,Input Data,https://doi.org/10.1371/journal.pone.0226687
+Rowland et al (2019),2019,Stochastic Modelling,1,Modelling Approach,https://doi.org/10.1371/journal.pone.0226687
+Rowland et al (2019),2019,Concentration-Response,1,Output Information,https://doi.org/10.1371/journal.pone.0226687
+Rowland et al (2019),2019,Time-Response,1,Output Information,https://doi.org/10.1371/journal.pone.0226687
+Rowland et al (2019),2019,Response-Response,1,Output Information,https://doi.org/10.1371/journal.pone.0226687
+Rowland et al (2019),2019,Mechanism of Action,1,Application,https://doi.org/10.1371/journal.pone.0226687
+Rowland et al (2019),2019,Open-access,1,Accessibility,https://doi.org/10.1371/journal.pone.0226687
+Rowland et al (2019),2019,Raw data,1,Accessibility,https://doi.org/10.1371/journal.pone.0226687
+Zgheib et al (2019),2019,Chemical(s),1,Stressor,https://doi.org/10.1016/j.comtox.2019.02.001
+Zgheib et al (2019),2019,Linear AOP,1,AOP Type,https://doi.org/10.1016/j.comtox.2019.02.001
+Zgheib et al (2019),2019,Human,1,Species,https://doi.org/10.1016/j.comtox.2019.02.001
+Zgheib et al (2019),2019,Functional assay,1,Assays,https://doi.org/10.1016/j.comtox.2019.02.001
+Zgheib et al (2019),2019,In vitro,1,Input Data,https://doi.org/10.1016/j.comtox.2019.02.001
+Zgheib et al (2019),2019,Kinetics,1,Input Data,https://doi.org/10.1016/j.comtox.2019.02.001
+Zgheib et al (2019),2019,Metabolism,1,Input Data,https://doi.org/10.1016/j.comtox.2019.02.001
+Zgheib et al (2019),2019,SysBio,1,Modelling Approach,https://doi.org/10.1016/j.comtox.2019.02.001
+Zgheib et al (2019),2019,Bayesian Networks,1,Modelling Approach,https://doi.org/10.1016/j.comtox.2019.02.001
+Zgheib et al (2019),2019,Concentration-Response,1,Output Information,https://doi.org/10.1016/j.comtox.2019.02.001
+Zgheib et al (2019),2019,Time-Response,1,Output Information,https://doi.org/10.1016/j.comtox.2019.02.001
+Zgheib et al (2019),2019,Response-Response,1,Output Information,https://doi.org/10.1016/j.comtox.2019.02.001
+Zgheib et al (2019),2019,Mechanism of Action,1,Application,https://doi.org/10.1016/j.comtox.2019.02.001
+Zgheib et al (2019),2019,Risk Prediction,1,Application,https://doi.org/10.1016/j.comtox.2019.02.001
+Zgheib et al (2019),2019,Open-access,1,Accessibility,https://doi.org/10.1016/j.comtox.2019.02.001
+Zgheib et al (2019),2019,Raw data,1,Accessibility,https://doi.org/10.1016/j.comtox.2019.02.001
+Zgheib et al (2019),2019,With code,1,Accessibility,https://doi.org/10.1016/j.comtox.2019.02.001
+Burgoon et al (2020),2020,Chemical(s),1,Stressor,https://doi.org/10.1111/risa.13423
+Burgoon et al (2020),2020,AOP Network,1,AOP Type,https://doi.org/10.1111/risa.13423
+Burgoon et al (2020),2020,Human,1,Species,https://doi.org/10.1111/risa.13423
+Burgoon et al (2020),2020,Gene expression,1,Assays,https://doi.org/10.1111/risa.13423
+Burgoon et al (2020),2020,Functional assay,1,Assays,https://doi.org/10.1111/risa.13423
+Burgoon et al (2020),2020,In vitro,1,Input Data,https://doi.org/10.1111/risa.13423
+Burgoon et al (2020),2020,Metabolism,1,Input Data,https://doi.org/10.1111/risa.13423
+Burgoon et al (2020),2020,Bayesian Networks,1,Modelling Approach,https://doi.org/10.1111/risa.13423
+Burgoon et al (2020),2020,Concentration-Response,1,Output Information,https://doi.org/10.1111/risa.13423
+Burgoon et al (2020),2020,Response-Response,1,Output Information,https://doi.org/10.1111/risa.13423
+Burgoon et al (2020),2020,Risk Prediction,1,Application,https://doi.org/10.1111/risa.13423
+Burgoon et al (2020),2020,Raw data,1,Accessibility,https://doi.org/10.1111/risa.13423
+Burgoon et al (2020),2020,With code,1,Accessibility,https://doi.org/10.1111/risa.13423
+Song et al (2020),2020,Environmental factor(s),1,Stressor,https://doi.org/10.1021/acs.est.0c03794
+Song et al (2020),2020,AOP Network,1,AOP Type,https://doi.org/10.1021/acs.est.0c03794
+Song et al (2020),2020,Crustacean,1,Species,https://doi.org/10.1021/acs.est.0c03794
+Song et al (2020),2020,Gene expression,1,Assays,https://doi.org/10.1021/acs.est.0c03794
+Song et al (2020),2020,Functional assay,1,Assays,https://doi.org/10.1021/acs.est.0c03794
+Song et al (2020),2020,In vitro,1,Input Data,https://doi.org/10.1021/acs.est.0c03794
+Song et al (2020),2020,Metabolism,1,Input Data,https://doi.org/10.1021/acs.est.0c03794
+Song et al (2020),2020,Benchmark Dose Analysis,1,Modelling Approach,https://doi.org/10.1021/acs.est.0c03794
+Song et al (2020),2020,Concentration-Response,1,Output Information,https://doi.org/10.1021/acs.est.0c03794
+Song et al (2020),2020,Response-Response,1,Output Information,https://doi.org/10.1021/acs.est.0c03794
+Song et al (2020),2020,Mechanism of Action,1,Application,https://doi.org/10.1021/acs.est.0c03794
+Song et al (2020),2020,Raw data,1,Accessibility,https://doi.org/10.1021/acs.est.0c03794
+Ambe et al (2021),2021,Chemical(s),1,Stressor,https://doi.org/10.1016/j.yrtph.2021.105019
+Ambe et al (2021),2021,Linear AOP,1,AOP Type,https://doi.org/10.1016/j.yrtph.2021.105019
+Ambe et al (2021),2021,Human,1,Species,https://doi.org/10.1016/j.yrtph.2021.105019
+Ambe et al (2021),2021,Gene expression,1,Assays,https://doi.org/10.1016/j.yrtph.2021.105019
+Ambe et al (2021),2021,HPLC,1,Assays,https://doi.org/10.1016/j.yrtph.2021.105019
+Ambe et al (2021),2021,In silico,1,Input Data,https://doi.org/10.1016/j.yrtph.2021.105019
+Ambe et al (2021),2021,In vitro,1,Input Data,https://doi.org/10.1016/j.yrtph.2021.105019
+Ambe et al (2021),2021,CatBoost,1,Modelling Approach,https://doi.org/10.1016/j.yrtph.2021.105019
+Ambe et al (2021),2021,Mechanism of Action,1,Application,https://doi.org/10.1016/j.yrtph.2021.105019
+Ambe et al (2021),2021,Open-access,1,Accessibility,https://doi.org/10.1016/j.yrtph.2021.105019
+Ambe et al (2021),2021,Raw data,1,Accessibility,https://doi.org/10.1016/j.yrtph.2021.105019
+Ambe et al (2021),2021,With code,1,Accessibility,https://doi.org/10.1016/j.yrtph.2021.105019
+Jagiello et al (2021),2021,Nanotubes,1,Stressor,https://doi.org/10.1002/smll.202003465
+Jagiello et al (2021),2021,Linear AOP,1,AOP Type,https://doi.org/10.1002/smll.202003465
+Jagiello et al (2021),2021,Mouse,1,Species,https://doi.org/10.1002/smll.202003465
+Jagiello et al (2021),2021,Gene expression,1,Assays,https://doi.org/10.1002/smll.202003465
+Jagiello et al (2021),2021,In vitro,1,Input Data,https://doi.org/10.1002/smll.202003465
+Jagiello et al (2021),2021,Benchmark Dose Analysis,1,Modelling Approach,https://doi.org/10.1002/smll.202003465
+Jagiello et al (2021),2021,Mechanism of Action,1,Application,https://doi.org/10.1002/smll.202003465
+Jagiello et al (2021),2021,Open-access,1,Accessibility,https://doi.org/10.1002/smll.202003465
+Jagiello et al (2021),2021,Raw data,1,Accessibility,https://doi.org/10.1002/smll.202003465
+Jannicke Moe et al (2021),2021,Chemical(s),1,Stressor,https://doi.org/10.1002/ieam.4348
+Jannicke Moe et al (2021),2021,AOP Network,1,AOP Type,https://doi.org/10.1002/ieam.4348
+Jannicke Moe et al (2021),2021,Aquatic plant,1,Species,https://doi.org/10.1002/ieam.4348
+Jannicke Moe et al (2021),2021,Functional assay,1,Assays,https://doi.org/10.1002/ieam.4348
+Jannicke Moe et al (2021),2021,In vitro,1,Input Data,https://doi.org/10.1002/ieam.4348
+Jannicke Moe et al (2021),2021,Bayesian Networks,1,Modelling Approach,https://doi.org/10.1002/ieam.4348
+Jannicke Moe et al (2021),2021,Concentration-Response,1,Output Information,https://doi.org/10.1002/ieam.4348
+Jannicke Moe et al (2021),2021,Time-Response,1,Output Information,https://doi.org/10.1002/ieam.4348
+Jannicke Moe et al (2021),2021,Response-Response,1,Output Information,https://doi.org/10.1002/ieam.4348
+Jannicke Moe et al (2021),2021,Mechanism of Action,1,Application,https://doi.org/10.1002/ieam.4348
+Jannicke Moe et al (2021),2021,Open-access,1,Accessibility,https://doi.org/10.1002/ieam.4348
+Jannicke Moe et al (2021),2021,Raw data,1,Accessibility,https://doi.org/10.1002/ieam.4348
+Jannicke Moe et al (2021),2021,With code,1,Accessibility,https://doi.org/10.1002/ieam.4348
+Song et al (2021),2021,Chemical(s),1,Stressor,https://doi.org/10.1016/j.jhazmat.2020.124490
+Song et al (2021),2021,AOP Network,1,AOP Type,https://doi.org/10.1016/j.jhazmat.2020.124490
+Song et al (2021),2021,Crustacean,1,Species,https://doi.org/10.1016/j.jhazmat.2020.124490
+Song et al (2021),2021,Gene expression,1,Assays,https://doi.org/10.1016/j.jhazmat.2020.124490
+Song et al (2021),2021,In vitro,1,Input Data,https://doi.org/10.1016/j.jhazmat.2020.124490
+Song et al (2021),2021,Bayesian Networks,1,Modelling Approach,https://doi.org/10.1016/j.jhazmat.2020.124490
+Song et al (2021),2021,Concentration-Response,1,Output Information,https://doi.org/10.1016/j.jhazmat.2020.124490
+Song et al (2021),2021,Time-Response,1,Output Information,https://doi.org/10.1016/j.jhazmat.2020.124490
+Song et al (2021),2021,Response-Response,1,Output Information,https://doi.org/10.1016/j.jhazmat.2020.124490
+Song et al (2021),2021,Point of Departure,1,Application,https://doi.org/10.1016/j.jhazmat.2020.124490
+Song et al (2021),2021,Open-access,1,Accessibility,https://doi.org/10.1016/j.jhazmat.2020.124490
+Song et al (2021),2021,Raw data,1,Accessibility,https://doi.org/10.1016/j.jhazmat.2020.124490
+Villeneuve et al (2021),2021,Chemical(s),1,Stressor,https://doi.org/10.1002/etc.4968
+Villeneuve et al (2021),2021,Linear AOP,1,AOP Type,https://doi.org/10.1002/etc.4968
+Villeneuve et al (2021),2021,Fish,1,Species,https://doi.org/10.1002/etc.4968
+Villeneuve et al (2021),2021,Functional assay,1,Assays,https://doi.org/10.1002/etc.4968
+Villeneuve et al (2021),2021,In vitro,1,Input Data,https://doi.org/10.1002/etc.4968
+Villeneuve et al (2021),2021,In vivo,1,Input Data,https://doi.org/10.1002/etc.4968
+Villeneuve et al (2021),2021,Linear Regressions,1,Modelling Approach,https://doi.org/10.1002/etc.4968
+Villeneuve et al (2021),2021,Concentration-Response,1,Output Information,https://doi.org/10.1002/etc.4968
+Villeneuve et al (2021),2021,Time-Response,1,Output Information,https://doi.org/10.1002/etc.4968
+Villeneuve et al (2021),2021,Response-Response,1,Output Information,https://doi.org/10.1002/etc.4968
+Villeneuve et al (2021),2021,Mechanism of Action,1,Application,https://doi.org/10.1002/etc.4968
+Villeneuve et al (2021),2021,Point of Departure,1,Application,https://doi.org/10.1002/etc.4968
+Villeneuve et al (2021),2021,Raw data,1,Accessibility,https://doi.org/10.1002/etc.4968
+Jarzina et al (2022),2022,Chemical(s),1,Stressor,https://doi.org/10.3389/ftox.2022.864441
+Jarzina et al (2022),2022,Linear AOP,1,AOP Type,https://doi.org/10.3389/ftox.2022.864441
+Jarzina et al (2022),2022,Rat,1,Species,https://doi.org/10.3389/ftox.2022.864441
+Jarzina et al (2022),2022,Human,1,Species,https://doi.org/10.3389/ftox.2022.864441
+Jarzina et al (2022),2022,Gene expression,1,Assays,https://doi.org/10.3389/ftox.2022.864441
+Jarzina et al (2022),2022,Functional assay,1,Assays,https://doi.org/10.3389/ftox.2022.864441
+Jarzina et al (2022),2022,High-content imaging,1,Assays,https://doi.org/10.3389/ftox.2022.864441
+Jarzina et al (2022),2022,LC-MS/MS,1,Assays,https://doi.org/10.3389/ftox.2022.864441
+Jarzina et al (2022),2022,In vitro,1,Input Data,https://doi.org/10.3389/ftox.2022.864441
+Jarzina et al (2022),2022,In vivo,1,Input Data,https://doi.org/10.3389/ftox.2022.864441
+Jarzina et al (2022),2022,Benchmark Dose Analysis,1,Modelling Approach,https://doi.org/10.3389/ftox.2022.864441
+Jarzina et al (2022),2022,Concentration-Response,1,Output Information,https://doi.org/10.3389/ftox.2022.864441
+Jarzina et al (2022),2022,Time-Response,1,Output Information,https://doi.org/10.3389/ftox.2022.864441
+Jarzina et al (2022),2022,Response-Response,1,Output Information,https://doi.org/10.3389/ftox.2022.864441
+Jarzina et al (2022),2022,Mechanism of Action,1,Application,https://doi.org/10.3389/ftox.2022.864441
+Jarzina et al (2022),2022,Open-access,1,Accessibility,https://doi.org/10.3389/ftox.2022.864441
+Jin et al (2022),2022,Chemical(s),1,Stressor,https://doi.org/10.1016/j.jhazmat.2021.128041
+Jin et al (2022),2022,AOP Network,1,AOP Type,https://doi.org/10.1016/j.jhazmat.2021.128041
+Jin et al (2022),2022,Human,1,Species,https://doi.org/10.1016/j.jhazmat.2021.128041
+Jin et al (2022),2022,Gene expression,1,Assays,https://doi.org/10.1016/j.jhazmat.2021.128041
+Jin et al (2022),2022,Functional assay,1,Assays,https://doi.org/10.1016/j.jhazmat.2021.128041
+Jin et al (2022),2022,In silico,1,Input Data,https://doi.org/10.1016/j.jhazmat.2021.128041
+Jin et al (2022),2022,In vitro,1,Input Data,https://doi.org/10.1016/j.jhazmat.2021.128041
+Jin et al (2022),2022,Kinetics,1,Input Data,https://doi.org/10.1016/j.jhazmat.2021.128041
+Jin et al (2022),2022,Metabolism,1,Input Data,https://doi.org/10.1016/j.jhazmat.2021.128041
+Jin et al (2022),2022,Random Forest,1,Modelling Approach,https://doi.org/10.1016/j.jhazmat.2021.128041
+Jin et al (2022),2022,Molecular Docking,1,Modelling Approach,https://doi.org/10.1016/j.jhazmat.2021.128041
+Jin et al (2022),2022,Concentration-Response,1,Output Information,https://doi.org/10.1016/j.jhazmat.2021.128041
+Jin et al (2022),2022,Response-Response,1,Output Information,https://doi.org/10.1016/j.jhazmat.2021.128041
+Jin et al (2022),2022,Mechanism of Action,1,Application,https://doi.org/10.1016/j.jhazmat.2021.128041
+Jin et al (2022),2022,Open-access,1,Accessibility,https://doi.org/10.1016/j.jhazmat.2021.128041
+Jin et al (2022),2022,Raw data,1,Accessibility,https://doi.org/10.1016/j.jhazmat.2021.128041
+Liu et al (2022),2022,Chemical(s),1,Stressor,https://doi.org/10.1371/journal.pcbi.1010148
+Liu et al (2022),2022,AOP Network,1,AOP Type,https://doi.org/10.1371/journal.pcbi.1010148
+Liu et al (2022),2022,Rat,1,Species,https://doi.org/10.1371/journal.pcbi.1010148
+Liu et al (2022),2022,Gene expression,1,Assays,https://doi.org/10.1371/journal.pcbi.1010148
+Liu et al (2022),2022,In vivo,1,Input Data,https://doi.org/10.1371/journal.pcbi.1010148
+Liu et al (2022),2022,Scoring System,1,Modelling Approach,https://doi.org/10.1371/journal.pcbi.1010148
+Liu et al (2022),2022,Time-Response,1,Output Information,https://doi.org/10.1371/journal.pcbi.1010148
+Liu et al (2022),2022,Mechanism of Action,1,Application,https://doi.org/10.1371/journal.pcbi.1010148
+Liu et al (2022),2022,Risk Prediction,1,Application,https://doi.org/10.1371/journal.pcbi.1010148
+Liu et al (2022),2022,Open-access,1,Accessibility,https://doi.org/10.1371/journal.pcbi.1010148
+Liu et al (2022),2022,Raw data,1,Accessibility,https://doi.org/10.1371/journal.pcbi.1010148
+Liu et al (2022),2022,With code,1,Accessibility,https://doi.org/10.1371/journal.pcbi.1010148
+Spinu et al (2022),2022,Chemical(s),1,Stressor,https://doi.org/10.1016/j.comtox.2021.100206
+Spinu et al (2022),2022,AOP Network,1,AOP Type,https://doi.org/10.1016/j.comtox.2021.100206
+Spinu et al (2022),2022,Human,1,Species,https://doi.org/10.1016/j.comtox.2021.100206
+Spinu et al (2022),2022,Rat,1,Species,https://doi.org/10.1016/j.comtox.2021.100206
+Spinu et al (2022),2022,Functional assay,1,Assays,https://doi.org/10.1016/j.comtox.2021.100206
+Spinu et al (2022),2022,In silico,1,Input Data,https://doi.org/10.1016/j.comtox.2021.100206
+Spinu et al (2022),2022,In vitro,1,Input Data,https://doi.org/10.1016/j.comtox.2021.100206
+Spinu et al (2022),2022,In vivo,1,Input Data,https://doi.org/10.1016/j.comtox.2021.100206
+Spinu et al (2022),2022,Stochastic Modelling,1,Modelling Approach,https://doi.org/10.1016/j.comtox.2021.100206
+Spinu et al (2022),2022,Response-Response,1,Output Information,https://doi.org/10.1016/j.comtox.2021.100206
+Spinu et al (2022),2022,Mechanism of Action,1,Application,https://doi.org/10.1016/j.comtox.2021.100206
+Spinu et al (2022),2022,Risk Prediction,1,Application,https://doi.org/10.1016/j.comtox.2021.100206
+Spinu et al (2022),2022,Open-access,1,Accessibility,https://doi.org/10.1016/j.comtox.2021.100206
+Spinu et al (2022),2022,Raw data,1,Accessibility,https://doi.org/10.1016/j.comtox.2021.100206
+Spinu et al (2022),2022,With code,1,Accessibility,https://doi.org/10.1016/j.comtox.2021.100206
+Tebby et al (2022),2022,Chemical(s),1,Stressor,https://doi.org/10.1016/j.tiv.2022.105345
+Tebby et al (2022),2022,AOP Network,1,AOP Type,https://doi.org/10.1016/j.tiv.2022.105345
+Tebby et al (2022),2022,Human,1,Species,https://doi.org/10.1016/j.tiv.2022.105345
+Tebby et al (2022),2022,Functional assay,1,Assays,https://doi.org/10.1016/j.tiv.2022.105345
+Tebby et al (2022),2022,In vitro,1,Input Data,https://doi.org/10.1016/j.tiv.2022.105345
+Tebby et al (2022),2022,Stochastic Modelling,1,Modelling Approach,https://doi.org/10.1016/j.tiv.2022.105345
+Tebby et al (2022),2022,Concentration-Response,1,Output Information,https://doi.org/10.1016/j.tiv.2022.105345
+Tebby et al (2022),2022,Response-Response,1,Output Information,https://doi.org/10.1016/j.tiv.2022.105345
+Tebby et al (2022),2022,Mechanism of Action,1,Application,https://doi.org/10.1016/j.tiv.2022.105345
+Tebby et al (2022),2022,Risk Prediction,1,Application,https://doi.org/10.1016/j.tiv.2022.105345
+Tebby et al (2022),2022,Point of Departure,1,Application,https://doi.org/10.1016/j.tiv.2022.105345
+Tebby et al (2022),2022,Open-access,1,Accessibility,https://doi.org/10.1016/j.tiv.2022.105345
+Tebby et al (2022),2022,Raw data,1,Accessibility,https://doi.org/10.1016/j.tiv.2022.105345
+Tebby et al (2022),2022,With code,1,Accessibility,https://doi.org/10.1016/j.tiv.2022.105345
